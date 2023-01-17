@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/services",
+      "destination": "https://betterlegal.com/services"
+    }
+  ]
+}
